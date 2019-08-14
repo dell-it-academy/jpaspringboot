@@ -11,6 +11,6 @@ public class JpaspringbootApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	}
 
+	}
 }
